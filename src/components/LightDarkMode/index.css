@@ -1,0 +1,99 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 24px;
+}
+
+.container {
+  text-align: center;
+  border-radius: 12px;
+  padding: 24px;
+}
+
+.dark-mode {
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.light-mode {
+  color: #000000;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 32px;
+}
+
+.button {
+  font-size: 16px;
+  border: none;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+/*
+
+.light-bg-container {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.light-card-container {
+  background-color: black;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  padding: 40px;
+  align-self: center;
+}
+
+.dark-card-container {
+  background-color: white;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  padding: 40px;
+  border-style: 1px solid black;
+}
+
+.light-heading {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 40px;
+  font-weight: 600;
+}
+.dark-heading {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.btn {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 400;
+  color: black;
+  background-color: white;
+  border-radius: 8px;
+  padding: 12px;
+  border-color: black;
+  border-width: 2px;
+}
+*/
